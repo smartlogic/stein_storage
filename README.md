@@ -1,11 +1,8 @@
-# SteinStorage
+# Stein.Storage
 
-**TODO: Add description**
+Stein.Storage is a small library that adds remote storage to your Elixir/Phoenix application. Easily handle local files for development, S3 for production, and test mode for tests.
 
 ## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `stein_storage` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
@@ -14,8 +11,3 @@ def deps do
   ]
 end
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/stein_storage](https://hexdocs.pm/stein_storage).
-
